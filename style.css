@@ -1,0 +1,24 @@
+body{
+    background-color: lightgray;
+    }
+    
+    #btncapture{
+        background-color: blue;
+        color: white;
+    }
+    
+    #btncheck{
+        background-color: blue ;
+        color: white;
+    }
+    
+    #name_of_people{
+    color:#561b63 ;
+    }
+    
+    #camera{
+        width: 350px;
+        height: 300px;
+        border: 1px black solid;
+        
+    }
